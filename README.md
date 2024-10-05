@@ -1,3 +1,3 @@
 # First-Contribution
 
-hello friends. excited to kick start my foos journey
+hello friends. excited for kick starting my foss journey
